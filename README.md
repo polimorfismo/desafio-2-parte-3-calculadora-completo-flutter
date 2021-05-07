@@ -1,2 +1,5 @@
-# desafio-2-parte3-calculadora-completo-flutter
- Resolução da parte 3 do desafio da calculadora, desenvolvido para o curso de Flutter e Dart - Polimorfismo.
+# Desafio da calculadora - Parte 3 - Resolução
+
+Esse repositório contém a resolução completa para a fase 3 do desafio da calculadora. xD!
+
+>O curso completo pode ser encontrado gratuitamente no nosso canal do YouTube [Polimorfismo](https://youtube.com/channel/UCN0xtkhf8j2R6n1xKYCiJBA/).
